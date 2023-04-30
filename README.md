@@ -21,6 +21,8 @@ npm install @twind/preact
 ## capacitor
 
 ```bash
+npx cap init
+
 npm install @capacitor/android @capacitor/ios
 npx cap add android
 npx cap add ios
